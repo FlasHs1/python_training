@@ -1,0 +1,3 @@
+[submodule "awsses_exporter"]
+	path = awsses_exporter
+	url = git@github.com:FlasHs1/awsses_exporter.git
